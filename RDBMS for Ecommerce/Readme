@@ -1,0 +1,8 @@
+Database management system for Online-Learning Ecommerce (Sep. 2017-Dec. 2017)
+
+Technology used: Oracle MySQL, EER diagram, Normalization 3NF, Authentication and Authorization
+
+• Built robust relational database system for ecommerce(E2C) websites like Coursera and Udemy to organize data of course details,customer 
+details, instructor details, orders, transactions and shipments using Oracle MySQL.
+• Constructed enrolled courses, shopping cart, payment history and shipment tracking functionalities to provide quick access to data.
+• Implemented Trigger, Stored procedure, Views on database for CRUD operations to fetch information in real time.
