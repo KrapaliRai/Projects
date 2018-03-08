@@ -1,0 +1,6 @@
+Volunteer Ticket Management Portfolio for NGO (Sep. 2017-Dec. 2017) 
+
+Technology used: Java Swing, NetBeans IDE, Db4o database, Bitbucket version control, MD5 hash algorithm
+• Designed a system for managing patient and volunteer requests’ flow between different organizations of NGO using Java object-oriented paradigm.
+• Engineered real-time Email generation system to the user to provide updates regarding the request status
+• Implemented data hiding by creating unique Login-system and built hashing for password security for the system users
